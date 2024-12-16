@@ -3,7 +3,7 @@
 ## Instalación 
 
 ```bash
-git clone [URL]
+git clone git@github.com:Tredermeng/Fueguito.git
 
 cd Fuegito
 chmod +x install.sh
