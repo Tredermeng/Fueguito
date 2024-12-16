@@ -8,7 +8,7 @@
 git clone git@github.com:Tredermeng/Fueguito.git
 ```
 > [!IMPORTANT]
-> Debes de crear un archivo llamado (.env) sonde pondras el ID de tu Server, Bot, API'S, Channels, etc.
+> Debes de crear un archivo llamado (.env) donde pondras el ID de tu Server, Bot, API'S, Channels, etc.
 
 ## Contribuir :)
 **Formato de commit:** `(scope) commit message`
